@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "StartupFAV4Net": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7298",
+      "launchBrowser": false
+    }
+  }
+}
